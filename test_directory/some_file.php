@@ -3,8 +3,4 @@
  *
  */
 
-/**
- * @var string
- */
-$var = 'so this is where it begins';
-echo $var;
+echo 'LET\'S DO IT DIFFERENTLY';
